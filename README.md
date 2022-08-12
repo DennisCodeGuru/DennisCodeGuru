@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DennisCodeGuru
+- 👋 Hi, I’m @Dennis
 - 👀 I’m interested in Code and QA test
 - 🌱 I’m currently learning program lenguages
 - 💞️ I’m looking to collaborate on ...
