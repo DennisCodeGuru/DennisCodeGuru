@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dennis
 - 👀 I’m interested in Code and QA test
-- 🌱 I’m currently learning program lenguages
+- 🌱 I’m currently working in QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/denniskalmykov/
 
